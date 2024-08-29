@@ -4,7 +4,6 @@
 
 # What Things I Do.
 **- Im A Roblox Scripter And Expoiter Also, Im Good At Lua, A Roblox Lua And Coder Developer**
-- I DONT KNOW HOW TO FIX BUGS (DONT ASK ME BRUH)
 
 # What is Lua?
 **Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description.
