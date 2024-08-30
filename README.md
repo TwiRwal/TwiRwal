@@ -1,11 +1,13 @@
 # Information
-[![](https://raw.githubusercontent.com/TwiWare/testing-Scripts-files-of-twiware-For-Leastest-Fliestestin/main/TwiRwall.jpg)](github.com/twirwal)
+[![](https://raw.githubusercontent.com/TwiWare/testing-Scripts-files-of-twiware-For-Leastest-Fliestestin/main/TwiRwall.jpg)](github.com/error.lua)
 
 **Hello, Im TwiRwal _Im Lua Programer To Make Roblox Scripts_**
-**_I hate Skids Because They So Annoying And They Steal Codes Without Credits See I Allowed to Skid For Giving Me Credits Not Be Alt_**
+**A Developer Of TwiWare Owner Also**
+**i started coding in 2023**
 
-# What Things I Do.
-**- Im A Roblox Scripter And Expoiter Also, Im Good At Lua, A Roblox Lua And Coder Developer**
+#### What Things I Do.
+- **Developer/Owner Of TwiWare**
+- **i Worked on TwiWare every my freetime**
 
 # What is Lua?
 **Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description.
